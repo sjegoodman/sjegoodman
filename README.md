@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjegoodman
-- 👀 I’m interested in finding patterns in data, biking, monarch caterpillars
+- 👀 I’m interested in finding patterns in data, biking, monarch butterflies
 - 🌱 I’m currently learning python, pandas and R
 - 💞️ I’m looking to collaborate on projects that involved biking in Chicago
 - 📫 You can reach me at sje.goodman@protonmail.com
